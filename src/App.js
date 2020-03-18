@@ -14,6 +14,7 @@ function App() {
   // allows me to use actions
   const dispatch = useDispatch();
 
+  //TODO: add logged in component
   return (
     <div className="App">
       <h1>Counter {counter} </h1>
